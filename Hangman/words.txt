@@ -1,0 +1,16 @@
+Random Access Memory
+Hard Drive
+Solid State Drive
+Central Processing Unit
+Power Supply Unit
+Video Card
+Sound Card
+Optical Device
+Read Only Memory
+Universal Serial Bus
+Front Side Bus
+Northbridge Chipset
+Southbridge Chipset
+Input
+Storage
+*

@@ -1,0 +1,4 @@
+Hello Welcome to the Hangman game, today you will be given 3 chances to guess correctly a random word. 
+The Genre is computer hardware. Type a single letter when the computer prompts you.         
+You may restart when the game is over 
+ 
